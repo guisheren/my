@@ -6,5 +6,8 @@
  ************************************************************************/
 
 #include<iostream>
+#include<vector>
 using namespace std;
+using std::vector;
 
+typedef vector<int> my_vec;
